@@ -1,0 +1,38 @@
+{
+  "Name": "Armaan Ahmed Ansari",
+  "contacts": {
+    "github": "github.com",
+    "linkedin": "linkedin.com",
+    "phone": "7667170335",
+    "email": "ahmedarmaan121@gmail.com"
+  },
+  "education": {
+    "college": "Indian Institute of Information Technology, Sonepat",
+    "eduInfo": "B.Tech in Information Technology",
+    "time": "2022-2026"
+  },
+  "projects": {
+    "Leetbattle": {
+      "stack": ["Go", "TypeScript"],
+      "link": "github.com",
+      "desc": "Description"
+    },
+    "Gorrent CLI": {
+      "stack": ["Go", "TypeScript"],
+      "link": "github.com",
+      "desc": "Description"
+    },
+    "Multithreaded HTTP Server": {
+      "stack": ["Go", "TypeScript"],
+      "link": "github.com",
+      "desc": "Description"
+    }
+  },
+  "skills": {
+    "Programming Languages": ["C", "C++", "JavaScript", "TypeScript", "Go"],
+    "Frameworks": ["Node.js", "React.js", "Express.js", "Tailwind", "SDL3", "GraphQL"],
+    "Databases": ["SQL", "MongoDB"],
+    "Tools": ["Git", "vim", "Linux", "gdb"],
+    "Inter-Personal Skills": ["Team Work"]
+  }
+}
