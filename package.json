@@ -1,0 +1,20 @@
+{
+  "name": "@armaan-ahmed/resume",
+  "version": "1.0.0",
+  "description": "A terminal resume builder",
+  "homepage": "https://github.com/Ahmed-Armaan/cactro_933_backend_assignment#readme",
+  "bugs": {
+    "url": "https://github.com/Ahmed-Armaan/cactro_933_backend_assignment/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmed-Armaan/cactro_933_backend_assignment.git"
+  },
+  "license": "ISC",
+  "author": "Armaan Ahmed",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
